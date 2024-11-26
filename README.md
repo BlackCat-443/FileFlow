@@ -57,6 +57,7 @@ Aplikasi akan berjalan di `http://127.0.0.1:5050`.
 - **static/**: Folder untuk file statis (CSS, JS, dll).
 - **requirements.txt**: Daftar dependensi yang dibutuhkan aplikasi.
 
+```
 project-folder/
 │
 ├── __pycache__/
@@ -80,6 +81,7 @@ project-folder/
 ├── models.py
 ├── requirements.txt
 └── users.db
+```
 
 
 ## 📢 Catatan
